@@ -2,6 +2,9 @@
 # Architecure Ref. Card 01
 Standalone Spring Boot Application
 
+Link zur Übersicht:<br/>
+https://gitlab.com/bbwrl/m346-ref-card-overview
+
 ## Installation der benötigten Werkzeuge
 
 Maven Tutorial for Beginners<br/>
